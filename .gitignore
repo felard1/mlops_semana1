@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Ambiente 
+venv
+
+.DS_Store
+.Rhistory
 # Distribution / packaging
 .Python
 build/
